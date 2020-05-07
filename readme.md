@@ -1,14 +1,18 @@
 #RentCal
-Run at start
-```npm run dev``` in rentserve
-```npm start``` in rentcal
+
+Run at start 
+
+`npm run dev` in rentserve
+`npm start` in rentcal
 
 ##Features implemented
+
 - Roomate count
 - Api backennd get integration
 - Table layout
 
 ##Features to start working on
+
 - Post to db
   -Add images
   -Create a post with unique identity
